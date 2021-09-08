@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Braking-Bad-Api/static/css/main.e0e3dee0.chunk.css",
+    "main.js": "/Braking-Bad-Api/static/js/main.68a9b5a3.chunk.js",
+    "main.js.map": "/Braking-Bad-Api/static/js/main.68a9b5a3.chunk.js.map",
+    "runtime-main.js": "/Braking-Bad-Api/static/js/runtime-main.f73ca2f0.js",
+    "runtime-main.js.map": "/Braking-Bad-Api/static/js/runtime-main.f73ca2f0.js.map",
+    "static/js/2.41ba70df.chunk.js": "/Braking-Bad-Api/static/js/2.41ba70df.chunk.js",
+    "static/js/2.41ba70df.chunk.js.map": "/Braking-Bad-Api/static/js/2.41ba70df.chunk.js.map",
+    "static/js/3.1b1d2815.chunk.js": "/Braking-Bad-Api/static/js/3.1b1d2815.chunk.js",
+    "static/js/3.1b1d2815.chunk.js.map": "/Braking-Bad-Api/static/js/3.1b1d2815.chunk.js.map",
+    "index.html": "/Braking-Bad-Api/index.html",
+    "static/css/main.e0e3dee0.chunk.css.map": "/Braking-Bad-Api/static/css/main.e0e3dee0.chunk.css.map",
+    "static/js/2.41ba70df.chunk.js.LICENSE.txt": "/Braking-Bad-Api/static/js/2.41ba70df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f73ca2f0.js",
+    "static/js/2.41ba70df.chunk.js",
+    "static/css/main.e0e3dee0.chunk.css",
+    "static/js/main.68a9b5a3.chunk.js"
+  ]
+}
